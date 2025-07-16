@@ -1,0 +1,27 @@
+{
+  "name": "معرض عالم الصغار",
+  "short_name": "عالم الصغار",
+  "description": "معرض عالم الصغار لمستلزمات الأم والطفل في بني وليد",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3c72",
+  "theme_color": "#2980b9",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["shopping", "family", "kids"],
+  "icons": [
+    {
+      "src": "LOGO.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "LOGO.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+} 
